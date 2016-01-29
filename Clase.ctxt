@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clase()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Club\r\n
+comment1.params=
+comment1.target=int\ numberOfMembers()
+comment1.text=\r\n\ @return\ The\ number\ of\ members\ (Membership\ objects)\ in\r\n\ \ \ \ \ \ \ \ \ the\ club.\r\n
+comment2.params=
+comment2.target=void\ playShuffle()
+comment2.text=\r\n\ M\u00E9todo\ que\ desordena\ los\ nombres\r\n
+numComments=3
